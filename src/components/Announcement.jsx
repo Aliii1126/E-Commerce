@@ -2,7 +2,7 @@ import styled from "styled-components";
 
 const Container = styled.div`
 height: 30px;
-background-color: teal;
+background-color: black;
 color: white;
 display: flex;
 align-items: center;
@@ -14,7 +14,7 @@ font-weight: 500;
 const Announcement = () => {
     return(
         <Container>
-            Flash Sale! HP Samsung Fold 3 Hanya 1.000 Rupiah!!!
+            Free Delivery! Applies to orders of Rp3.000.000 or more. View details
         </Container>
     )
 }
