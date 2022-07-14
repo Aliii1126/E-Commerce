@@ -4,7 +4,7 @@ import Product from "./Product"
 import { popularProducts } from "../data"
 
 const Container = styled.div`
-    margin-top: 250px;
+    margin-top: 185px;
     padding: 20px;
     display: flex;
     flex-wrap: wrap;
